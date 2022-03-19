@@ -1,4 +1,4 @@
 - Usead **Map** to store the word and corresponding number
 - Call from the main method to **countWords** in same class
-- There is text file from which the program counds the words
+- There is text file from which the program counts the words
 - The file is at the same level as the class file is
