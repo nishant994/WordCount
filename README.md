@@ -1,0 +1,2 @@
+- USead Map to store the word and corresponding number
+- Call from the main method to countWords in same class
